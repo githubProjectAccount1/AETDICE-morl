@@ -1,0 +1,11 @@
+# datasets (download with gdown, see README; may be a symlink) and outputs
+/data
+/environment/dataset
+/results*
+/logs
+wandb/
+.jax_cache/
+.aetenv/
+.cache/
+__pycache__/
+*.pyc
